@@ -1,3 +1,3 @@
 git is a not  version control system.
 git is free software
-git is so awesome for all person
+Creating a new branch is quick & simple.
