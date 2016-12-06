@@ -3,4 +3,6 @@ git is free software
 Creating a new branch is quick & simple.
 
 hello world
+new
+
 another user's dev branch
