@@ -3,7 +3,7 @@ git is free software
 Creating a new branch is quick & simple.
 
 
-new
+
 
 another user's dev branch
 uuuuu
